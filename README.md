@@ -1,2 +1,2 @@
 # github-workflow-assignment
-Git and GitHub workflow assignment
+An introductory Git and GitHub collaboration assignment
