@@ -1,5 +1,5 @@
 # GitHub workflow-assignment
-A practical Git and GitHub collaboration workflow assignment
+A practical Git and GitHub workflow assignment demonstrating branching, commits, merge conflict resolution, pull requests, and code review.
 
 ## Project Overview
 
