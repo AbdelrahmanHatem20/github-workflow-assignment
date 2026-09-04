@@ -1,5 +1,5 @@
-# github-workflow-assignment
-A practical Git and GitHub workflow assignment
+# GitHub workflow-assignment
+A practical Git and GitHub collaboration workflow assignment
 
 ## Project Overview
 
